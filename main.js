@@ -3,6 +3,7 @@
 // @match    https://dnevnik.mos.ru/*
 // @match    https://uchebnik.mos.ru/*
 // @run-at   document-end
+// @author       chelovek#2374
 // ==/UserScript==
 
 (function() {
