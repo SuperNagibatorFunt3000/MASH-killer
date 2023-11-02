@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name     Изменение фона на белый
+// @name     МЭШ киллер
 // @match    https://dnevnik.mos.ru/*
 // @match    https://uchebnik.mos.ru/*
 // @run-at   document-end
